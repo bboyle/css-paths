@@ -1,0 +1,10 @@
+.ryu-still,
+.ryu-ready,
+.ryu-throwing {
+    width:650px;
+    height:494px;
+}
+
+.ryu-ready {
+    background-image:url("../images/ryu-ready-position.gif");
+}
